@@ -1,11 +1,5 @@
 <h1>Да, я использую гитхаб чтобы постить мемы. И что ты мне сделаешь?</h1>
 
-<h3>рей милашка</h3>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LxWNtwoW2Yo"
-                title="Rei chikita" frameborder="0" allow="accelerometer;
-                autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
-                allowfullscreen></iframe>
-
 <h3>теперь все мемы будут на гитхабе</h3>
 <img src= https://media.discordapp.net/attachments/296971786485235732/885912151842238525/unknown.png>
 
